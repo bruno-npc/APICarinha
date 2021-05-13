@@ -9,10 +9,10 @@
 		<version>2.4.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.upe.piii</groupId>
-	<artifactId>Verdinhas</artifactId>
+	<groupId>br.upe.carinha</groupId>
+	<artifactId>APICarinha</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Verdinhas</name>
+	<name>APICarinha</name>
 	<description>construindo aplicação servlet</description>
 	<properties>
 		<java.version>11</java.version>
